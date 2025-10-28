@@ -1,0 +1,11 @@
+log_entry,log_level
+"17/06/08 19:43:49 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 246513",INFO
+"17/06/09 12:19:19 INFO python.PythonRunner: Times: total = 40, boot = -15, init = 55, finish = 0",INFO
+"17/06/09 16:50:46 INFO executor.Executor: Finished task 15.0 in stage 1198.0 (TID 50135). 2667 bytes result sent to driver",INFO
+"17/06/09 13:21:13 INFO storage.MemoryStore: Block broadcast_14323_piece0 stored as bytes in memory (estimated size 29.1 KB, free 3.6 MB)",INFO
+"17/06/09 16:47:46 INFO storage.BlockManager: Found block rdd_765_9 locally",INFO
+"17/06/08 16:19:40 INFO executor.Executor: Finished task 23.0 in stage 364.0 (TID 14583). 2667 bytes result sent to driver",INFO
+"17/06/10 15:26:13 INFO storage.BlockManager: Found block rdd_23_12 locally",INFO
+"17/06/08 20:55:31 INFO executor.Executor: Finished task 31.0 in stage 13401.0 (TID 536115). 2241 bytes result sent to driver",INFO
+"17/06/10 15:23:42 INFO mapred.SparkHadoopMapRedUtil: attempt_201706101523_0228_m_000019_4579: Committed",INFO
+"17/06/07 15:39:48 INFO python.PythonRunner: Times: total = 39, boot = 6, init = 33, finish = 0",INFO
